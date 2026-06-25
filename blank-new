@@ -1,1 +1,11 @@
-blank new file
+git clone: for cloning repo with url to device
+git push: save to cloud
+git pull: get from could
+git commit: commit(tracks) the file with mssg(-m)
+git add: can use dot for all or name of the file, moves to staging area
+git status: what branch we are in
+git checkout: to move into another branch (-b for new)
+git init: 
+
+extras:
+touch is not in windows, instead new-file

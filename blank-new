@@ -1,11 +1,11 @@
 git clone: for cloning repo with url to device
-git push: save to cloud
-git pull: get from could
+git push: save to GH
+git pull: get from GH
 git commit: commit(tracks) the file with mssg(-m)
 git add: can use dot for all or name of the file, moves to staging area
-git status: what branch we are in
+git status: what branch we are in and status
 git checkout: to move into another branch (-b for new)
-git init: 
+git init: always done at the parent, initialisation of the local dir with git
 
 extras:
-touch is not in windows, instead new-file
+touch is(on mac) not in windows, instead new-file
